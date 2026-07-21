@@ -1,34 +1,34 @@
 # Elite Enrichment Programs & Fellowships Roadmap
 
-**Owner:** SVG (Founder, Lead Researcher & Developer)  
+**Owner:** SVG (Founder, Lead Researcher & Developer — Age 29)  
 **Track Record:** LEAP Medical Leadership Program (Stanford School of Medicine), "The Grind" Business Pitch Competition Finalist (Campus Inc), Campus Debate Team Captain & Winner  
-**Core Objective:** Maximizing institutional prestige, non-dilutive research funding, and high-impact leadership networks across undergraduate, graduate, and entrepreneurial phases.
+**Core Objective:** Maximizing institutional prestige, non-dilutive research funding, and high-impact leadership networks across adult undergraduate, graduate, and entrepreneurial phases.
 
 ---
 
-## 🏛️ Master Program Matrix
+## 🏛️ Master Program Matrix (Adult & 29yo Founder Optimized)
 
-This repository catalogs elite fellowships, accelerators, research programs, and honors cohorts across three key operational stages:
+This repository catalogs elite fellowships, accelerators, research grants, and honors cohorts tailored for non-traditional, adult (29yo+), and founder trajectories:
 
-1. **Undergraduate & Campus Programs (`undergraduate-fellowships.md`)**
-   - Syracuse University Renée Crown University Honors Program
-   - Syracuse Blackstone LaunchPad & Techstars Accelerator
-   - Stanford Summer Undergraduate Research Fellowship (SURF)
-   - MIT Research Experiences for Undergraduates (REU)
-   - Barry Goldwater Scholarship in STEM Research
+1. **Entrepreneurial Accelerators & Fast Grants (`entrepreneurial-accelerators.md`)**
+   - **Emergent Ventures Grant (Tyler Cowen)**: $10k–$100k fast non-dilutive grant (2-3 week decision, no age limit).
+   - **NSF SBIR Phase I & II**: $300k to $1.25M federal non-dilutive grant for deep-tech AI/TDA.
+   - **Y Combinator (YC)**: $500k investment (no age limit).
+   - **776 Fellowship (Alexis Ohanian)**: $100k non-dilutive grant (no upper age limit).
+   - **Techstars Accelerator**: $120k investment (no age limit).
 
-2. **Entrepreneurial Accelerators & Venture Fellowships (`entrepreneurial-accelerators.md`)**
-   - Thiel Fellowship ($100,000 grant for young founders)
-   - Y Combinator (YC $500,000 investment for top tech/quant startups)
-   - Stanford StartX Accelerator
-   - NSF I-Corps (National Science Foundation Innovation Corps — $50,000 grant)
+2. **Undergraduate & Campus Programs (`undergraduate-fellowships.md`)**
+   - **Osher Reentry Scholarship**: National tuition grant specifically for adult students (age 25+).
+   - **Syracuse University Renée Crown Honors**: Priority registration & $5k research grants.
+   - **Syracuse Blackstone LaunchPad**: $25k non-dilutive campus pitch grants.
+   - **Columbia GS PALS Fellowship**: Full/partial tuition for non-traditional adult students.
+   - **Barry Goldwater Scholarship**: $7,500 national STEM research award.
 
 3. **Elite Graduate & Doctoral Fellowships (`graduate-prestigious-awards.md`)**
-   - Stanford Knight-Hennessy Scholars Program (Full tuition + stipend for Stanford graduate degrees)
-   - Hertz Foundation Graduate Fellowship (Ph.D. funding in applied physical sciences & computing)
-   - Paul & Daisy Soros Fellowships for New Americans
-   - NSF Graduate Research Fellowship Program (NSF GRFP — $159,000 stipend + tuition)
-   - Rhodes Scholarship (Oxford DPhil) & Marshall Scholarship (UK Research)
+   - **Stanford Knight-Hennessy Scholars**: Full tuition + stipend for Stanford MS/PhD (all ages eligible).
+   - **Hertz Foundation Graduate Fellowship**: $250k PhD funding in applied physical sciences & computing.
+   - **Paul & Daisy Soros Fellowships**: $90k award for immigrants / children of immigrants (under 30 eligible!).
+   - **NSF GRFP**: $159k total stipend for graduate study.
 
 ---
 
@@ -36,10 +36,10 @@ This repository catalogs elite fellowships, accelerators, research programs, and
 
 ```text
 enrichment-programs-fellowships/
-├── README.md                           # Master Overview & Roadmap
-├── undergraduate-fellowships.md        # Syracuse Honors, Blackstone, Stanford SURF, MIT REU
-├── entrepreneurial-accelerators.md     # Thiel, YC, StartX, NSF I-Corps
-├── graduate-prestigious-awards.md      # Knight-Hennessy, Hertz, Soros, NSF GRFP, Rhodes
+├── README.md                           # Master Overview & Adult Roadmap
+├── entrepreneurial-accelerators.md     # Emergent Ventures, NSF SBIR ($300k), YC ($500k), 776 ($100k)
+├── undergraduate-fellowships.md        # Osher Reentry (25+), Syracuse Honors, Blackstone, Columbia PALS
+├── graduate-prestigious-awards.md      # Knight-Hennessy, Hertz, Soros, NSF GRFP
 └── scripts/
     └── application_tracker.py          # Python deadline & application tracking tool
 ```
@@ -48,6 +48,6 @@ enrichment-programs-fellowships/
 
 ## 🚀 Quick Execution Guide
 
-- **Current Step (Pre-Reenrollment):** Prepare Thiel Fellowship & Y Combinator applications leveraging AetherQuant's live +12%/day algorithm metrics.
-- **Syracuse Re-entry:** Join Syracuse Blackstone LaunchPad & apply to the Renée Crown University Honors Program.
-- **Graduate Application Phase:** Apply to Knight-Hennessy Scholars (Stanford) & NSF GRFP alongside graduate school applications.
+- **Immediate Step (Next 2-4 Weeks):** Submit Emergent Ventures grant application ($10k-$100k fast decision) & YC Winter application with AetherQuant's +12%/day metrics.
+- **Syracuse Re-entry:** Apply to Osher Reentry Scholarship & Syracuse Blackstone LaunchPad.
+- **Graduate Phase:** Apply to Knight-Hennessy Scholars (Stanford) & NSF GRFP alongside graduate applications.
