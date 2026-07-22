@@ -1,4 +1,4 @@
-# Y Combinator (Fall 2026 Batch) Exact Form Answers
+# Y Combinator (Fall 2026 Batch) Exact Form Answers (Including Conditional Fields)
 
 **Company Name:** AetherQuant  
 **Live Production URL:** `https://aetherquant.cloud/`  
@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 SECTION 3: PROGRESS
+## 📈 SECTION 3: PROGRESS & CONDITIONAL FIELDS
 
 ### Question: How far along are you?
 > **Copy-Paste Answer:**
@@ -71,9 +71,12 @@
 ### Question: Are people using your product?
 > **Selection:** `Yes`
 
+### 🆕 Conditional Question: How many active users or customers do you have? How many are paying? Who is paying you the most, and how much do they pay you?
+> **Copy-Paste Answer:**
+> *"Currently in active internal paper/prop execution generating proprietary trading gains (+12% after-market gain today). We have 2 pilot Single-Family Offices evaluating our $50,000/year risk overlay software in pre-launch testing. 0 external paying SaaS customers today; commercial rollout launches post-YC."*
+
 ### Question: Do you have revenue?
-> **Selection:** `No`  
-> *(Note: Self-funded prop trading capital gains are compounding; external client SaaS revenue launches post-YC).*
+> **Selection:** `No`
 
 ### Question: If you are applying with the same idea as a previous batch, did anything change?
 > **Copy-Paste Answer:**
@@ -105,10 +108,14 @@
 
 ---
 
-## ⚖️ SECTION 5: EQUITY & CURIOUS
+## ⚖️ SECTION 5: EQUITY, FUNDRAISING & CONDITIONAL FIELDS
 
 ### Question: Have you formed ANY legal entity yet?
-> **Selection:** `No` *(Will incorporate Delaware C-Corp upon YC admission).*
+> **Selection:** `No`
+
+### 🆕 Conditional Question: If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders.
+> **Copy-Paste Answer:**
+> *"Santiago De Jesus Villalobos Gonzalez (Founder & CEO): 100% Equity. 15% to 20% equity option pool reserved for future key technical hires post-Delaware C-Corp formation."*
 
 ### Question: Have you taken any investment yet?
 > **Selection:** `No`
@@ -116,12 +123,19 @@
 ### Question: Are you currently fundraising?
 > **Selection:** `Yes`
 
-### Question: What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
+### 🆕 Conditional Question: Please provide any relevant details about your current fundraise.
 > **Copy-Paste Answer:**
-> *"Encouraged by YC alumni in my network (including Boardy.ai founder Andrew D'Souza). YC is the gold standard for scaling deep-tech software and quantitative finance infrastructure into category-defining companies."*
+> *"Raising a $500,000 to $1,500,000 Seed / Pre-Seed SAFE round (post-money valuation cap $10M–$15M) to scale real-time L2/L3 market data ingestion, high-performance GPU compute, and institutional fund structuring. Also applying for non-dilutive fast grants (Emergent Ventures $50k-$100k, NSF SBIR $300k)."*
 
-### Question: How did you hear about Y Combinator?
-> **Selection:** `YC Alumni & Founder Community`
+---
 
-### Question: What batch do you want to apply for?
-> **Selection:** `Fall 2026`
+## 🎥 SECTION 6: FOUNDER VIDEO ATTIRE & RECORDING GUIDELINES
+
+### Do I need to wear a button-down shirt or formal suit?
+* **NO.** YC explicitly prefers authentic, casual, technical founders.
+* **Recommended Attire**: A clean, sharp polo shirt, neat t-shirt, or casual button-down shirt. Avoid suits/ties (YC partners find suits unnatural for technical founders).
+* **Recording Best Practices**:
+  1. **Camera**: Use your smartphone camera in 1080p/4K horizontally (landscape mode).
+  2. **Lighting**: Sit facing a window or soft lamp so your face is brightly lit.
+  3. **Eye Contact**: Look directly into the camera lens (not at your screen).
+  4. **Pacing**: Speak naturally, with high energy, taking 50 to 55 seconds total.
